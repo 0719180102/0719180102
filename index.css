@@ -1,0 +1,64 @@
+/* ==PAGE1== */
+.page1 {
+    background: url('image/背景.png') no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 4.72rem;
+    height: 5.72rem;
+    left: 1.3rem;
+    top: 1rem;
+}
+/* ==PAGE2== */
+.page2 {
+    background: url('image/背景.png') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 8rem;
+    height: 4rem;
+    left: 0rem;
+    top: 2rem;
+}
+/* ==PAGE3== */
+.page3 {
+    background: url('image/背景.png') no-repeat;
+    background-size: cover;
+}
+
+.page3 img {
+    position: absolute;
+}
+
+.page3 img:nth-of-type(1) {
+    width: 8rem;
+    height: 4rem;
+    left: 0;
+    top: .1rem;
+}
+/* ==PAGE4== */
+.page4 {
+    background: url('image/背景.png') no-repeat;
+    background-size: cover;
+}
+
+.page4 img {
+    position: absolute;
+}
+
+.page4 img:nth-of-type(1) {
+    width: 8rem;
+    height: 4rem;
+    left: 0;
+    top: .1rem;
+}
